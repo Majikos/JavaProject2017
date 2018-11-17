@@ -1,0 +1,11 @@
+.button{
+    -fx-font-family: sans-serif;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-min-width: 120px;
+}
+.label{
+    -fx-font-weight: bold;
+    -fx-font-family: monospace;
+    -fx-text-fill: black;
+}
